@@ -1,5 +1,5 @@
 # Soy Luis Pedroza
-### Actualmente estudio ingenieria en comunicaciones y electronica
+### Actualmente estudio ingeniería en comunicaciones y electrónica
 ### Actualmente tengo experiencia en:
 
 ## <img src = "https://user-images.githubusercontent.com/115313081/227296757-50ca16ca-4587-4498-b50f-d8c7167a3012.png" width="40" /> Python
